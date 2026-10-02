@@ -1,0 +1,8 @@
+jax==0.11.0
+numpy
+optax
+
+
+
+keras   # only needed for --dataset split_mnist
+pytest  # dev
